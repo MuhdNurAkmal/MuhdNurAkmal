@@ -1,13 +1,23 @@
-Hello there, I'm **Akmal** 👋🏻
+![banner](https://github.com/MuhdNurAkmal/MuhdNurAkmal/assets/93871877/2b6571a2-3fbd-4edc-8e4a-3d930305eead)
 
-## Data Science, Web Development, Computer Vision
-
-Currently undergoing internship at AMIC as Computer Vision Intern. Responsible in developing object detection and identification model.
+<h1 align='center'>Hello there, I'm <strong>Akmal 👋🏻</strong></h1>
 
 ## 🌐 Connect with me :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akml_zzz) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmalrazif/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](#) 
+
+💬 If you have any questions, feedback or want to collaborate on a project, please don't hesitate to contact me!
+
+## 🔭 I'm currently working on :
+- Portfolio Website
+- Hospital Queue Mobile Apps
+- Crop Recommendation System (old project)
+
+## 🌱 I'm currently learning
+- Google Advanced Data Analytics Certificate
+- React JS
+- Typescript
 
 ## 💻 Tech Stack:
 
