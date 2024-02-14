@@ -10,14 +10,12 @@
 💬 If you have any questions, feedback or want to collaborate on a project, please don't hesitate to contact me!
 
 ## 🔭 I'm currently working on :
-- Portfolio Website
-- Hospital Queue Mobile Apps
 - Crop Recommendation System (old project)
+- Data Analytics Projects
 
 ## 🌱 I'm currently learning
 - Google Advanced Data Analytics Certificate
-- React JS
-- Typescript
+- Data Analytics Tools eg. Tableau, Excel & MySQL
 
 ## 💻 Tech Stack:
 
