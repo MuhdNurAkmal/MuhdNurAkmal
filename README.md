@@ -3,19 +3,20 @@
 <h1 align='center'>Hello there, I'm <strong>Akmal 👋🏻</strong></h1>
 
 ## 🌐 Connect with me :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmalrazif/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](#) 
 
 💬 If you have any questions, feedback or want to collaborate on a project, please don't hesitate to contact me!
 
 ## 🔭 I'm currently working on :
-- Crop Recommendation System (old project)
-- Data Analytics Projects
+- Web Development Projects
+- Mobile Apps Development Projects
+- Data Science Projects
 
 ## 🌱 I'm currently learning
-- Google Advanced Data Analytics Certificate
-- Data Analytics Tools eg. Tableau, Excel & MySQL
+- ReactJS
+- React Native
+- Data Science
 
 ## 💻 Tech Stack:
 
