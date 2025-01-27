@@ -3,7 +3,7 @@
 <h1 align='center'>What's Up Coders, I'm <strong>Akmal 👋🏻</strong></h1>
 
 ## 🌐 Connect with me :
-[![Instagram](https://img.shields.io/badge/Github-%23E4405F.svg?logo=Instagram&logoColor=white)](#) 
+[![Instagram](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhdNurAkmal) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmalrazif/) 
 
 💬 If you have any questions, feedback or want to collaborate on a project, please don't hesitate to contact me!
