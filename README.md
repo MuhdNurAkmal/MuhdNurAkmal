@@ -1,10 +1,9 @@
 ![banner](https://github.com/user-attachments/assets/1caf7ccb-54d3-4b29-9b48-41ad376964ea)
 
-
-<h1 align='center'>Hello there, I'm <strong>Akmal 👋🏻</strong></h1>
+<h1 align='center'>What's Up Coders, I'm <strong>Akmal 👋🏻</strong></h1>
 
 ## 🌐 Connect with me :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) 
+[![Instagram](https://img.shields.io/badge/Github-%23E4405F.svg?logo=Instagram&logoColor=white)](#) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmalrazif/) 
 
 💬 If you have any questions, feedback or want to collaborate on a project, please don't hesitate to contact me!
