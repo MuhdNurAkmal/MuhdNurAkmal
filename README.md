@@ -4,14 +4,14 @@
 
 ## 🌐 Connect with me :
 [![Instagram](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhdNurAkmal) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmalrazif/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmalrazif/)
+[![LinkedIn](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://akmalrazif.netlify.app/)
 
 💬 If you have any questions, feedback or want to collaborate on a project, please don't hesitate to contact me!
 
 ## 🔭 I'm currently working on :
-- Web Development Projects
-- Mobile Apps Development Projects
-- Data Science Projects
+- Web Development Projects (Django, React.js, Angular, Node.js, Laravel)
+- Mobile Apps Development Projects (React Native, Flutter)
 
 ## 🌱 I'm currently learning
 - ReactJS
