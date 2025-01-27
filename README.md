@@ -1,4 +1,5 @@
-![banner](https://github.com/MuhdNurAkmal/MuhdNurAkmal/assets/93871877/2b6571a2-3fbd-4edc-8e4a-3d930305eead)
+![banner](https://github.com/user-attachments/assets/1caf7ccb-54d3-4b29-9b48-41ad376964ea)
+
 
 <h1 align='center'>Hello there, I'm <strong>Akmal 👋🏻</strong></h1>
 
